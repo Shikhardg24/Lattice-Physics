@@ -1,0 +1,1 @@
+I tried to first identify which two columns represent the actual target fields. I used the correlation and describe features to pick the two most clear columns. Then I tried various approaches on modelling, among which Light GBM performed the best, and Random Forest Regressor was decent but not good.
